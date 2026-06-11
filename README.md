@@ -34,22 +34,22 @@ The results of this tuning are evident in the final metrics, where the Size pred
 
 ---
 
-##  Visual Comparison (Confusion Matrices)
+## 🖼️ Visual Comparison (Confusion Matrices)
 
 ### 1. Size Prediction
 | Before Tuning | After Tuning |
 |---|---|
-| ![Before](plots/Before%20confusion%20matrix%20size.png) | ![After](plots/AFTER%20Confusion%20Matrix%20Size.png) |
+| ![Before](plots/size_before.png) | ![After](plots/size_after.png) |
 
 ### 2. Fit Prediction
 | Before Tuning | After Tuning |
 |---|---|
-| ![Before](plots/Before%20confusion%20matrix%20fit.png) | ![After](plots/AFTER%20Confusion%20Matrix%20Fit.png) |
+| ![Before](plots/fit_before.png) | ![After](plots/fit_after.png) |
 
 ### 3. Body Shape Prediction
 | Before Tuning | After Tuning |
 |---|---|
-| ![Before](plots/Before%20confusion%20body%20shape.png) | ![After](plots/AFTER%20Confusion%20Matrix%20BodyShape.png) |
+| ![Before](plots/shape_before.png) | ![After](plots/shape_after.png) |
 
 ---
 
