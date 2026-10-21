@@ -1,4 +1,4 @@
-#  AI-Powered Fashion Recommendation System
+# Smart Fashion Sizing AI — Body Measurement & Sizing Engine
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![ML](https://img.shields.io/badge/Machine%20Learning-Neural%20Networks-orange.svg)]()
